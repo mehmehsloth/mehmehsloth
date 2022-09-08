@@ -1,6 +1,6 @@
 Hi, I’m :rocket: <b> mehmehsloth </b> :rocket:
 
-- TS, Go, C and python are the only real languages known to man
+- Haskell is the only real language known to man
 - I use vim and hence I am a good programmer.
 - You can see my real github [here](https://github.com/ps173)
 
